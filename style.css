@@ -1,0 +1,40 @@
+h1 {
+  color: darkblue;
+  font-family: "Brush Script MT", sans-serif;
+  font-size: 50px;
+  text-align: center;
+}
+
+body {
+  text-align: center;
+}
+
+body p {
+  font-size: 12px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul a {
+  color: black;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#ca {
+  background-color: blue;
+}
+
+#vsr {
+  background-color: red;
+}
+
+#lf {
+  background-color: yellow;
+}
